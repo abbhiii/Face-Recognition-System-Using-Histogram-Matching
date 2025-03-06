@@ -19,8 +19,8 @@ This project is a simple face recognition system implemented using OpenCV and Fl
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/abbhiii/Face_Recognition.git
-cd Face_Recognition
+git clone https://github.com/abbhiii/Face-Recognition-System-Using-Histogram-Matching.git
+cd Face-Recognition-System-Using-Histogram-Matching
 ```
 
 ### 2. Install Dependencies
